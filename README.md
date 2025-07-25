@@ -20,7 +20,10 @@ The goal of this project is to analyze global population data from the World Ban
 
 ## 🚀 How to Run
 
-1.  Open the `.ipynb` file in Google Colab or Jupyter Notebook.
-2.  The script is designed to prompt for a file upload.
-3.  When prompted, upload the `API_SP.POP.TOTL_DS2_en_csv_v2_20333.csv` file.
-4.  Run the notebook cell to see the data processing steps and the final visualizations.
+Click the badge below to open the project directly in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aksharashree/CodeCraft-Population-Analysis/blob/main/CODECRAFT_TASK_1_Akshara_Shree.ipynb)
+
+**Instructions:**
+1. Once the notebook is open, run the main code cell by clicking the play button (▶️).
+2. The code will prompt you to upload the `.csv` data file from your computer to run the analysis.
