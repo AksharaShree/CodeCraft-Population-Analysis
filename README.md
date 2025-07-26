@@ -22,7 +22,7 @@ The goal of this project is to analyze global population data from the World Ban
 
 Click the badge below to open the project directly in Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aksharashree/CodeCraft-Population-Analysis/blob/main/CODECRAFT_TASK_1_Akshara_Shree.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aksharashree/CODECRAFT_DS_01/blob/main/CODECRAFT_TASK_1_Akshara_Shree.ipynb)
 
 **Instructions:**
 1. Once the notebook is open, run the main code cell by clicking the play button (▶️).
